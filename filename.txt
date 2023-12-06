@@ -1,0 +1,3 @@
+SVM - 3
+Decision Tree - 9
+Logistic Regression - 3
